@@ -1,0 +1,3 @@
+[commands]
+exit = "exit"
+help = "help"
